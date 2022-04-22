@@ -1,0 +1,4 @@
+discord.py
+pillow
+google-api-python-client
+PyNaCl
